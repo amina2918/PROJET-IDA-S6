@@ -34,7 +34,7 @@ $is_admin = isset($_SESSION['admin_id']) ? true : false;
         <div class="container-fluid px-3 px-lg-4">
             <!-- Logo -->
             <a class="navbar-brand fw-bold d-flex align-items-center" href="index.php">
-                <img src="assets/images/logo.png.jpeg" alt="E-Tech-Boutique" class="logo-img me-2" style="height: 50px;">
+                <img src="assets/images/logo.jpeg" alt="E-Tech-Boutique" class="logo-img me-2" style="height: 50px;">
                 <span class="d-none d-sm-inline">E-Tech-Boutique 🛍️</span>
             </a>
 
